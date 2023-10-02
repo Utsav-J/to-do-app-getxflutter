@@ -41,6 +41,10 @@ dependencies:
   flutter_easyloading: ^3.0.5
   dotted_border: ^2.0.0+2
   step_progress_indicator: ^1.0.1
+  intl: ^0.18.1
+  popover: ^0.2.8+2
+  google_fonts: 6.1.0
+  provider: ^6.0.5
   
 
 dev_dependencies:

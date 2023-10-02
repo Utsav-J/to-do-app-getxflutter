@@ -1,7 +1,16 @@
-# to-do-app-getxflutter
-An android app based on the Flutter framework, using GetX for State and Route management. 
-To test, run 
-- flutter create <something>
-- replace the files of your folder with mine
-- save pubspec yaml or simply run flutter pub get
-- and launch the main.dart file
+# to_do_list
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
